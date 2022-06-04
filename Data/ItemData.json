@@ -1,0 +1,7 @@
+{
+  "Rock": {
+    "ItemCategory": "Resource",
+    "StackSize": 32,
+    "Description": "A rock that can be used for crafting."
+  }
+}
